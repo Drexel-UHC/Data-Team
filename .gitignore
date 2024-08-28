@@ -1,3 +1,30 @@
+# text/excel/word/gdb files
+*.txt
+*.csv
+*.xlsx
+*.docx
+*.gdb
+
+# Shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.aih
+*.ain
+*.ixs
+*.mxs
+*.atx
+*.fbn
+*.fbx
+*.shp.xml
+*.qix
+*.fix
+*.qpj
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
